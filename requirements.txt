@@ -1,0 +1,6 @@
+gradio>=3.0
+tensorflow>=2.10
+opencv-python>=4.6
+ultralytics>=8.0
+numpy>=1.22
+matplotlib>=3.6
